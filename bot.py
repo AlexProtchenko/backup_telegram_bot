@@ -19,7 +19,7 @@ bot = telebot.TeleBot(TOKEN)
 def start_join(message):
     response = requests.request(method="POST", url=http_post_id, json={"id": message.chat.id})
     if response.status_code == 200:
-        message_ = "Welcome to the club, body!"
+        message_ = "You start bot!"
     else:
         message_ = f"Something was wrong | {response.status_code}"
     bot.send_message(message.chat.id, message_)
