@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c19cfa45-5ae4-4bdd-8790-09ffb5d7eaa4" name="Changes" comment="" />
+    <list default="true" id="c19cfa45-5ae4-4bdd-8790-09ffb5d7eaa4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/telegram_bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/telegram_bot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +91,7 @@
       <workItem from="1631812071169" duration="736000" />
       <workItem from="1631812814996" duration="3879000" />
       <workItem from="1632140754812" duration="53000" />
-      <workItem from="1632143619861" duration="4227000" />
+      <workItem from="1632143619861" duration="5550000" />
     </task>
     <servers />
   </component>
